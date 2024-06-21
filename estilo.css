@@ -7,11 +7,12 @@
     font-family: 'Game of Thrones';
     text-transform: uppercase;
     display: flex;
-    height: 200px;
+    height: 100px;
     width: 100%;
     align-items: center;
     justify-content: center;
     text-align: center;
+    margin-top: 0px;
 }
 
 *
@@ -21,7 +22,7 @@
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 4rem;
     position: absolute;
 }
 
