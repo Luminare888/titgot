@@ -12,8 +12,9 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    top: 20px;
+    top: 10px;
     position: relative;
+    overflow: hidden;
 }
 
 *
