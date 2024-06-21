@@ -1,5 +1,10 @@
+@font-face {
+    font-family: 'Game of Thrones';
+    src: url(fonts/Game_Of_Thrones.ttf);
+  }
+
 .cuadro {
-    font-family: Game of Thrones;
+    font-family: 'Game of Thrones';
     text-transform: uppercase;
     display: flex;
     height: 200px;
@@ -21,7 +26,7 @@ h2 {
 }
 
 .border {
-    font-family: Game of Thrones;
+    font-family: 'Game of Thrones';
     color: #262626;
     text-shadow: -1px -1px white,
     1px -1px 0 white,
